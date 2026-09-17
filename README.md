@@ -222,17 +222,6 @@ dbt run
 
 ---
 
-## Future Improvements
-
-* Gold Layer dimensional models
-* Data quality tests
-* Automated documentation
-* CI/CD pipeline using GitHub Actions
-* Scheduled dbt jobs
-* Data lineage visualization
-
----
-
 ## Security
 
 Sensitive configuration files such as **profiles.yml** are intentionally excluded from version control.
